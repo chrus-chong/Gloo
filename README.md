@@ -10,6 +10,11 @@ With the development of our consolidated platform, we aim to bridge the gap betw
 
 We aim to create a web-based consumer to consumer and business to consumer marketplace for buying and selling general utility services.
 
+## Presentation Demo
+https://github.com/chrus-chong/gloo/assets/85006125/c3fe837c-5ea4-48fd-90d0-9598f6d4a011
+
+Presentation recorded for the NUS Orbital Program where my team eventually earned Distinction (Artemis).
+
 
 
 ## Usage
